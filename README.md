@@ -11,7 +11,7 @@
 ### 🧠 About Me
 
 - 🎓 Master's student in Software Engineering (MBA)
-- 🧪 QA Engineer working with manual and automated testing (Robot Framework, Python)
+- 🧪 QA Engineer working with manual and automated testing 
 - 🔄 Experience in OEM security systems, CI/CD pipelines and integration tests
 - 🔐 DevSecOps enthusiast focused on secure development workflows
 - 🤖 Developing a portfolio of AI-driven software engineering projects

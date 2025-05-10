@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pedro Saraiva</h1>
 
 <p align="center">
-  💻 Software Engineer specialized in <strong>QA, cybersecurity, and DevSecOps</strong><br>
+  💻 Software Engineer specialized in <strong>QA and DevSecOps</strong><br>
   🔐 Passionate about secure software development and automation<br>
   🧠 Currently pursuing an MBA in Software Engineering
 </p>

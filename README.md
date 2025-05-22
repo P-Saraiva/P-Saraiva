@@ -34,7 +34,7 @@
 
 > (Coming soon — integrating projects from internal GitLab and new public demos)
 
-- 🔎 **RAG-based Log Analyzer**  
+- 🔎 **!RAG-based Log Analyzer(https://github.com/P-Saraiva/log-analyzer)**  
   AI-based system log analysis using vector similarity search and Retrieval-Augmented Generation.
 
 - 🛡️ **DevSecOps Demo Pipeline**  
